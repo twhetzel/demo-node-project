@@ -5,7 +5,7 @@ Demo Node app in Docker based on https://nodejs.org/de/docs/guides/nodejs-docker
 `nodemon -e html,js server.js`
 
 # Dependencies
-Install the following dependencies as:
+Install the following dependencies as:  
 `npm install express`  
 `npm install -g nodemon`  
 `npm install reload`  
